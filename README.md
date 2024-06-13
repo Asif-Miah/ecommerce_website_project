@@ -1,9 +1,5 @@
 **Feature:**
-![Screenshot (10)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/040d2483-7a84-4f24-b83a-95008b16a4e6)
-![Screenshot (9)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/020e20c9-5ab0-407e-bac2-25bd218694fd)
-![Screenshot (8)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/12eae34c-f4c2-4d8a-870f-7080f8341dd4)
-![Screenshot (7)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/7c64f8fb-7b9f-4c85-8b1e-c183c6470d6e)
-![Screenshot (6)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/6a140230-06b9-4182-9f59-24353277d715)
+
 Header Component: Displays the logo and navigation menu allowing users to navigate to different    sections of the website.
 Slider Component: Presents a slideshow of images or content, providing dynamic visual engagement.
 Product Display Component: Shows a collection of products with details such as name, description, and price.
@@ -12,6 +8,11 @@ Responsive Design: Ensures compatibility and optimal viewing experience across v
 
 **Technology Used:** The Project utilize React Js, Javascript, Html, css 
 
+![Screenshot (6)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/6a140230-06b9-4182-9f59-24353277d715)
+![Screenshot (7)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/7c64f8fb-7b9f-4c85-8b1e-c183c6470d6e)
+![Screenshot (8)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/12eae34c-f4c2-4d8a-870f-7080f8341dd4)
+![Screenshot (9)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/020e20c9-5ab0-407e-bac2-25bd218694fd)
+![Screenshot (10)](https://github.com/Asif3237/ecommercesitewithroute/assets/99876059/040d2483-7a84-4f24-b83a-95008b16a4e6)
 
 
 # Getting Started with Create React App
@@ -84,3 +85,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
